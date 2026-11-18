@@ -1,17 +1,18 @@
 ---
-name: fabio
-description: Risponde con una frase a caso di Fabio, una "verità" economica da bar su attività commerciali quotidiane. Usala solo quando l'utente scrive /fabio o chiede esplicitamente una frase di Fabio.
+name: fabio-economic
+description: Risponde con una "verità" economica da bar di Fabio su attività commerciali quotidiane, a caso o sull'argomento indicato. Usala quando l'utente scrive /fabio-economic o chiede esplicitamente una verità economica di Fabio.
 ---
 
-# Fabio
+# Fabio: verità economiche
 
 Rispondi con **una sola frase**, nient'altro: niente introduzione, spiegazione, virgolette o emoji.
 
 ## Scegliere la frase
 
+- Se l'utente indica un argomento ("/fabio-economic palestre", "cosa dice Fabio dei benzinai?"), la frase parla di quello.
 - Di solito **inventane una nuova** seguendo la ricetta qui sotto. Ogni tanto usa una frase presa dagli esempi.
 - Non ripetere una frase già detta in questa conversazione.
-- Cambia argomento ogni volta: supermercato, bar, negozi di quartiere, servizi, spiaggia, ufficio, scuola...
+- Senza un argomento indicato, cambia argomento ogni volta: supermercato, bar, negozi di quartiere, servizi, spiaggia, ufficio, scuola...
 
 ## Ricetta della vibe
 
@@ -44,36 +45,36 @@ Fabio dice "verità" sull'economia di tutti i giorni con la sicurezza assoluta d
 - L'Ikea ci guadagna sulle polpette, i mobili sono marketing.
 - Le palestre campano su quelli che pagano l'annuale a gennaio e non tornano più.
 - Il bar dell'ospedale è l'attività più redditizia d'Italia.
-- I negozi di materassi sono in svendita totale da quindici anni ma non chiudono mai.
+- Gli integratori alimentari sono la più grande truffa mai esistita
 - Nei supermercati il pane lo mettono in fondo apposta per farti attraversare tutto.
-- Gli autolavaggi a gettoni sono la rendita perfetta, lì dentro non ci lavora nessuno.
-- Il ristorante sushi all you can eat va in perdita con chiunque ordini solo nigiri al salmone.
+- I ristoranti sushi all you can eat sono sostenibili solo se tutti mangiano almeno un pò di salmone.
+- Al supermercato gli alimenti più freschi sono sempre quelli in fondo allo scaffale
+- Comprare una macchina nuova è il peggior investimento a breve termine
+- Le palestre lavorano grazie ai tuoi sensi di colpa.
 - Il pollo arrosto del supermercato è fatto coi polli che scadono domani.
+- La frittura mista è il cimitero del pesce invenduto della settimana
+- I negozi biologici campano sulla tua ansia di morire giovane.
 - Le farmacie guadagnano più sulle creme che sui farmaci.
-- Il negozio di cornici sotto casa non ha mai avuto un cliente, eppure è aperto dal 1987.
-- Le agenzie di viaggio esistono ancora solo per le crociere dei pensionati.
+- Il negozio di quadri non ha mai avuto un cliente, eppure non fallisce mai.
+- Le agenzie di viaggio esistono ancora solo per le crociere dei pensionati e per i viaggi di nozze.
 - Il kebabbaro è l'unico che ha davvero capito il commercio.
 - I distributori automatici delle scuole fatturano più della mensa.
 - La macchinetta del caffè in ufficio si ripaga in tre settimane.
-- I chioschi di piadine in spiaggia fanno ad agosto il fatturato di un anno.
-- Le poste vendono libri e peluche perché coi francobolli non ci pagano la luce.
+- Il PIL dei chioschi in spiaggia si regge sul tuo burnout da dodici mesi.
 - Al ristorante l'acqua in bottiglia paga l'affitto del locale.
 - La gastronomia del supermercato vive degli avanzi della macelleria.
 - Il negozio di sigarette elettroniche aperto in tre mesi chiude in tre mesi.
 - La sagra della porchetta è il miglior business plan d'Italia.
 - Ogni centro commerciale ha un negozio di candele dove nessuno ha mai visto entrare qualcuno.
-- Il dentista guadagna più sugli sbiancamenti che sulle carie.
-- Le bancarelle di accendini al mare sono tutte dello stesso tizio.
-- Il bar con le slot ha sempre il caffè peggiore della via.
+- Il dentista guadagna più sulla tua prossima visita che su quella attuale.
 - Il menù fisso da 12 euro a pranzo è in perdita, lo fanno per farti tornare la sera.
 - Il reparto ortofrutta butta via il 30% della merce e lo sa benissimo.
 - Le edicole sopravvivono solo grazie ai gratta e vinci e alle ricariche.
 - Il negozio di cover per cellulari in centro paga l'affitto con le pellicole da 20 euro.
-- Il ferramenta di quartiere vive delle viti vendute una alla volta.
-- Le gelaterie d'inverno restano aperte solo per non perdere i clienti fissi.
-- Il gommista a novembre guadagna quanto il resto dell'anno messo insieme.
-- L'Autogrill sa esattamente quanta gente si ferma solo per il bagno.
-- Il fioraio vive di San Valentino, Festa della Mamma e funerali, il resto è hobby.
+- Il gommista a novembre ed aprile guadagna quanto il resto dell'anno messo insieme.
+- Il fioraio esiste per dare una motivo per lamentarsi alle donne
 - Il reparto giocattoli del supermercato esiste solo per far piangere i bambini alla cassa.
 - La copisteria vicino all'università campa tre settimane all'anno, durante le tesi.
-- I ristoranti con il menù di 300 piatti hanno un solo freezer gigante.
+- I ristoranti con un menu scarno sono quelli di migliore qualità
+- Non tutte le foglie stanno in un quadro.
+- La macchinetta del caffè in azienda è il posto migliore dove fare un sondaggio sincero.
