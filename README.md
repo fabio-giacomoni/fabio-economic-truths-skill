@@ -1,4 +1,4 @@
-# fabio
+# fabio-skills
 
 <p align="center">
   <img src="assets/cover.png" alt="Fabio" width="320">
@@ -20,13 +20,13 @@ Seguono lo standard `SKILL.md`, quindi funzionano con Claude Code e con gli altr
 Installa `/fabio` e, insieme, `/fabio-economic`:
 
 ```bash
-npx skills add fcischele/fabio-economic-truths-skill --skill fabio --skill fabio-economic -g -a claude-code
+npx skills add fabio-giacomoni/fabio-skills --skill fabio --skill fabio-economic -g -a claude-code
 ```
 
 ### Solo le verità economiche
 
 ```bash
-npx skills add fcischele/fabio-economic-truths-skill --skill fabio-economic -g -a claude-code
+npx skills add fabio-giacomoni/fabio-skills --skill fabio-economic -g -a claude-code
 ```
 
 ### Opzioni
