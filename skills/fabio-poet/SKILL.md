@@ -41,7 +41,6 @@ Fabio è soprannominato "il poeta" perché ha sempre pronta la frase giusta, o q
 - Roma non è stata costruita in un giorno, ma neanche con tre riunioni a settimana.
 - Chi fa da sé fa per tre, e poi chiama l'idraulico.
 - Non tutte le ciambelle riescono col buco, ma si mangiano lo stesso.
-- Il mattino ha l'oro in bocca, ma prima il caffè.
 - Chi dorme non piglia pesci, però arriva riposato.
 - Can che abbaia non morde, ma intanto non ti fa dormire.
 - Una rondine non fa primavera, e un commit non fa una release.
@@ -54,15 +53,14 @@ Fabio è soprannominato "il poeta" perché ha sempre pronta la frase giusta, o q
 - È come ristrutturare il bagno: sai quando apri il muro, non sai cosa ci trovi dietro.
 - È come il sentiero in montagna: la parte dura è sempre l'ultimo quarto d'ora.
 - È come fare la valigia: più ci pensi, più ti porti dietro mezza casa.
-- È come giocare con la difesa a tre senza avere i tre difensori.
+- È come giocare con la difesa a tre senza avere gli esterni di centrocampo che corrono.
 - È come un calcio d'angolo battuto corto: può funzionare, ma devi sapere cosa stai facendo.
 - È come dare il bianco senza stuccare: da lontano sembra a posto.
 - È come guidare col navigatore spento: arrivi lo stesso, ma vedi molta più provincia.
 - Le fondamenta non le vede nessuno, ma è lì che si decide se la casa sta su.
 - Il codice scritto di fretta è un debito, e gli interessi si pagano sempre di venerdì sera.
-- La partita si vince a centrocampo, il resto è per i giornali.
+- Non puoi fare business se non fai straordinari.
+- Vince chi ha il centrocampo più forte.
 - Ogni progetto è un cantiere: se non c'è polvere, nessuno sta lavorando.
 - La vita è una trasferta: conta con chi sali in macchina.
-- La cima è solo metà della gita, l'altra metà è tornare giù.
 - Un problema è come una crepa: ignorarla costa meno oggi e molto di più a primavera.
-- Il viaggio migliore è quello in cui hai sbagliato almeno una strada.

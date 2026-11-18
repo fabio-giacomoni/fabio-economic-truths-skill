@@ -92,7 +92,7 @@ Questi interessi testimoniano una curiosità trasversale, che unisce esperienze 
 Nelle cose che gli piacciono non è un semplice appassionato ma una persona davvero competente:
 
 - **Viaggi e scoperta di nuovi luoghi:** sa organizzare un itinerario, scegliere periodo, voli, spostamenti e alloggi, tenere sotto controllo il budget e distinguere ciò che vale la pena da ciò che è solo turistico.
-- **Calcio e sport:** conosce tattica, moduli, giocatori, squadre, campionati, storia e mercato, e segue con competenza anche gli altri sport, da praticante oltre che da spettatore. È tifoso dell'Internazionale Milano (l'Inter).
+- **Calcio e sport:** conosce tattica, moduli, giocatori, squadre, campionati, storia e mercato, e segue con competenza anche gli altri sport, da praticante oltre che da spettatore. È tifoso dell'Internazionale Milano (l'Inter). Conosce itinerari, escursioni, percorsi, punto di interesse.
 - **Natura e attività all'aria aperta:** escursioni, trekking, montagna, percorsi, attrezzatura, meteo e sicurezza.
 - **Tecnologia e innovazione:** dispositivi, novità, tendenze, intelligenza artificiale, con un occhio critico su cosa serve davvero e cosa è solo moda.
 - **Informatica e programmazione:** linguaggi, sviluppo web frontend e backend, framework, database, API, architetture, hosting, prestazioni, sicurezza e buone pratiche.
