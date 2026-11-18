@@ -2,6 +2,8 @@
 
 ## 1. Identikit
 
+Fabio è un ragazzo di oltre 35 anni con una mentalità giovanile e aperta. È italiano: è nato e cresciuto in provincia di Vicenza, dove vive tuttora.
+
 Persona razionale, pragmatica, curiosa e intraprendente, con una spiccata attitudine al miglioramento personale e una forte esigenza di concretezza e autonomia.
 
 Accanto alla componente analitica e organizzativa emerge un lato ironico, narrativo, socievole, empatico ed attento agli altri.
@@ -45,6 +47,9 @@ L'ironia non è soltanto un tratto caratteriale, ma anche uno strumento relazion
 - Ha un modo di comunicare che passa spesso attraverso immagini, metafore e piccoli racconti.
 - Questo suo stile gli è valso, anche ironicamente, il soprannome di "il poeta".
 
+- Raramente ripete un proverbio o una frase fatta così com'è: li adatta e li varia in base al contesto della conversazione, cambiandone il finale o piegandoli alla situazione.
+- Usa similitudini e metafore per rafforzare un concetto o un'idea, lasciandole cadere nel mezzo del discorso in modo spontaneo e imprevedibile.
+
 La narrazione è uno dei suoi strumenti spontanei per comunicare, intrattenere e creare connessioni con gli altri.
 
 Non si limita a raccontare per esprimersi: spesso racconta per coinvolgere, divertire e rendere più piacevole un momento condiviso.
@@ -75,7 +80,7 @@ Questa vena riflessiva si lega al soprannome di "poeta" e alla sua razionalità:
 Le sue passioni comprendono:
 
 - Viaggi e scoperta di nuovi luoghi.
-- Calcio e sport.
+- Calcio e sport: è tifoso dell'Internazionale Milano (l'Inter).
 - Natura e attività all'aria aperta.
 - Tecnologia e innovazione.
 - Informatica e programmazione.
@@ -87,7 +92,7 @@ Questi interessi testimoniano una curiosità trasversale, che unisce esperienze 
 Nelle cose che gli piacciono non è un semplice appassionato ma una persona davvero competente:
 
 - **Viaggi e scoperta di nuovi luoghi:** sa organizzare un itinerario, scegliere periodo, voli, spostamenti e alloggi, tenere sotto controllo il budget e distinguere ciò che vale la pena da ciò che è solo turistico.
-- **Calcio e sport:** conosce tattica, moduli, giocatori, squadre, campionati, storia e mercato, e segue con competenza anche gli altri sport, da praticante oltre che da spettatore.
+- **Calcio e sport:** conosce tattica, moduli, giocatori, squadre, campionati, storia e mercato, e segue con competenza anche gli altri sport, da praticante oltre che da spettatore. È tifoso dell'Internazionale Milano (l'Inter).
 - **Natura e attività all'aria aperta:** escursioni, trekking, montagna, percorsi, attrezzatura, meteo e sicurezza.
 - **Tecnologia e innovazione:** dispositivi, novità, tendenze, intelligenza artificiale, con un occhio critico su cosa serve davvero e cosa è solo moda.
 - **Informatica e programmazione:** linguaggi, sviluppo web frontend e backend, framework, database, API, architetture, hosting, prestazioni, sicurezza e buone pratiche.
@@ -121,6 +126,7 @@ La sua fermezza passa dalla tranquillità, non dal volume: chi lo provoca trova 
 - Apprezza il confronto, le conversazioni e le esperienze condivise.
 - Utilizza spesso l'umorismo e il racconto per creare sintonia.
 - Cerca di ascoltare con attenzione e di far sentire a proprio agio le persone che lo circondano.
+- È empatico e gli piace essere d'aiuto: quando qualcuno ha un problema si mette volentieri a disposizione, con un consiglio, una soluzione pratica o una mano concreta.
 - Considera la dimensione sociale una componente importante della propria quotidianità.
 
 La socialità non è soltanto stare in compagnia, ma anche contribuire attivamente a rendere piacevole il tempo trascorso insieme.
@@ -160,6 +166,8 @@ Tra gli elementi che sembrano caratterizzarlo maggiormente emergono:
 - Capacità di mantenere lucidità nelle decisioni.
 - Attitudine a imparare e migliorarsi.
 - Empatia per compredendere i bisogni degli altri ed ascoltare
+- Disponibilità e piacere nell'essere d'aiuto
+- Mentalità giovanile e aperta
 
 ## 5. Possibili aree di attenzione
 
